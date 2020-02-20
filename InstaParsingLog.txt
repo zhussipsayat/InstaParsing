@@ -1,0 +1,23 @@
+Python 3.6.4 (v3.6.4:d48eceb, Dec 19 2017, 06:04:45) [MSC v.1900 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> 
+== RESTART: D:\ВСиТ\2 триместр\Кластеризация больших данных\InstaParsing.py ==
+Здравствуйте, введите имя искомого аккаунта:zhssp
+Вы ищете: zhssp
+Имя: The Red One
+Инфа в био: The Red One
+Количество постов: 215
+Количество подписчиков: 91
+B7aRhvVJ3QR Лайков 29,Комментов 6;
+B7aOO7qp96n Лайков 36,Комментов 7;
+B7aNwZQJ2xV Лайков 28,Комментов 2;
+B7aMsYepUUl Лайков 33,Комментов 7;
+B7aMGVCptRD Лайков 29,Комментов 3;
+B7aLzg5JSjb Лайков 33,Комментов 4;
+BkEiotSF9rz Лайков 33,Комментов 11;
+Bjz4h0DlzU2 Лайков 38,Комментов 2;
+BjhufXmFv7v Лайков 25,Комментов 1;
+BjhuPhllShY Лайков 28,Комментов 6;
+BY88bqOlSEk Лайков 47,Комментов 1;
+BYEH-nHl1_I Лайков 29,Комментов 0;
+>>> 
